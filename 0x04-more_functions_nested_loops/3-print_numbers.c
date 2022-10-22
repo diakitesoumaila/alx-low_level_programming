@@ -2,9 +2,9 @@
 
 /**
  * print_numbers - print num from 0-9
- * Return: Always 0
+ * Return: void
  */
-void print_most_numbers(void)
+void print_numbers(void)
 {
 	char c;
 
